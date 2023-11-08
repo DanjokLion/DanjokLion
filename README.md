@@ -19,7 +19,6 @@ fields_of_interests:
   "Open Source develop",
   "WEB develop",
   "Cloud",
-  "DevOps",
   "Python develop",
  ]
 
