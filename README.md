@@ -7,14 +7,14 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danjoklion&label=Profile%20views&color=ff0000&style=flat-square" alt="danjoklion" /> </p>
 
 ```python
-name: Daniil
-located_in: Russia
-current_job: information systems development manager
+name: str = 'Daniil'
+located_in: str = 'Russia'
+current_job: str = 'information systems development manager'
 education:
-  [
-  Tecnique-Programmer: Done,
-  Business-informatics: First Year  
-  ]
+  {
+  'Tecnique-Programmer': Done,
+  'Business-informatics': First Year  
+  }
 
 fields_of_interests:
  [
