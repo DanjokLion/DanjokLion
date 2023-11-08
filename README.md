@@ -6,7 +6,28 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=danjoklion&label=Profile%20views&color=ff0000&style=flat-square" alt="danjoklion" /> </p>
 
-- 🌱 I’m currently learning **Python, JavaScript, Web-develop**
+```python
+name: Daniil
+located_in: Russia
+current_job: information systems development manager
+education:
+  [
+  Tecnique-Programmer: Done,
+  Business-informatics: First Year  
+  ]
+
+fields_of_interests:
+ [
+  "Open Source develop",
+  "WEB develop",
+  "Cloud",
+  "DevOps",
+  "Python develop",
+ ]
+
+#currently_preparing_for: ["Internship","Hackhathon","Job"]
+```
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
