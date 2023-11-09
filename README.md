@@ -8,13 +8,13 @@
 name: str = 'Daniil'
 located_in: str = 'Russia'
 current_job: str = 'information systems development manager'
-education:
+education =
   {
   'Tecnique-Programmer': Done,
   'Business-informatics': First Year  
   }
 
-fields_of_interests:
+fields_of_interests =
  [
   "Open Source develop",
   "WEB develop",
