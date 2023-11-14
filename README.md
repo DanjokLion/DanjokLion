@@ -11,7 +11,8 @@ current_job: str = 'information systems development manager'
 education =
   {
   'Tecnique-Programmer': Done,
-  'Business-informatics': First Year  
+  'Python-programmer': Third_Year,
+  'Business-informatics': First_Year  
   }
 
 fields_of_interests =
