@@ -20,7 +20,7 @@ fields_of_interests =
   "Open Source develop",
   "WEB develop",
   "Cloud",
-  "Python develop",
+  "Backend develop",
  ]
 
 #currently_preparing_for: ["Internship","Hackhathon","Job"]
