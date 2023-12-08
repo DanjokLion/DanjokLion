@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Daniil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web-developer+from+Russia!&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Web-developer;Backend+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 ```python
