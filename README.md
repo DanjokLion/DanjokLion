@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Daniil</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Web-developer;Backend+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Backend+Developer;SQL+Developer&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Example Usage - README Typing SVG">
 </p>
 
 ```python
 name: str = 'Daniil'
 located_in: str = 'Russia'
-current_job: str = 'information systems development manager'
+current_job: str = 'Backend developer, sql main/golang side'
 education =
   {
   'Tecnique-Programmer': Done,
@@ -18,7 +18,6 @@ fields_of_interests =
  [
   "Open Source develop",
   "WEB develop",
-  "Cloud",
   "Backend develop",
  ]
 
