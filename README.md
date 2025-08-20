@@ -7,11 +7,11 @@
 ```python
 name: str = 'Daniil'
 located_in: str = 'Russia'
-current_job: str = 'Backend developer, sql main/golang side'
+current_job: str = 'Backend developer, sql/golang'
 education =
   {
   'Tecnique-Programmer': Done,
-  'IT, programmer': First_Year  
+  'IT, programmer': Done  
   }
 
 fields_of_interests =
